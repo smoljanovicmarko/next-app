@@ -36,3 +36,10 @@ yarn-error.log*
 next-env.d.ts
 
 .idea
+
+
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
